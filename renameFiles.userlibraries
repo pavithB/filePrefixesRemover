@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="scala-sdk-2.10.3">
+    <archive path="C:/Users/Pavith Buddhima/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.3.jar" />
+    <archive path="C:/Users/Pavith Buddhima/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
